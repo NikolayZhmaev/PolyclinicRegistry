@@ -1,0 +1,23 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*/target
+/bin
+
+*.log.*
+*ttschoolog.log.*
+*.log
+/.classpath
+/.project
+.settings/
+
+*.idea*
+*.project
+*.iml
+
+*.class
+/*/.classpath
+
+/target/
